@@ -1,11 +1,11 @@
 [
     {
-        "id": 1,
+        "id": "1",
         "title": "Information about Vinted",
         "forums":
         [
             {
-                "id": 1,
+                "id": "1",
                 "title": "Vinted is best!",
                 "description": "There are so much bla bla stuff in VInted about all the bla bla there can be bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla. END of bla's.",
                 "topics_count": 12,
@@ -14,7 +14,7 @@
                 "last_post_creator_login": "secondchancesboutique"
             },
             {
-                "id": 2,
+                "id": "2",
                 "title": "Vinted is still the best!",
                 "description": "OMG! Vinted is so much better than bla bla bla. Did you knew that Rick and Morty is the most watched series between Vinted Academy'20 interns? Bla bla bla bla bla. END of bla's.",
                 "topics_count": 25,
@@ -25,12 +25,12 @@
         ]
     },
     {
-        "id": 2,
+        "id": "2",
         "title": "Vinted Parents about Vinted",
         "forums":
         [
             {
-                "id": 3,
+                "id": "3",
                 "title": "Forum rules and getting started!",
                 "description": "These are the rules of the forum! Something EVERYONE should read before use ;) Here you'll find everything you need to know to get you started on Vinted!",
                 "topics_count": 12,
@@ -39,7 +39,7 @@
                 "last_post_creator_login": "secondchancesboutique"
             },
             {
-                "id": 4,
+                "id": "4",
                 "title": "Forum rules and getting started!",
                 "description": "These are the rules of the forum! Something EVERYONE should read before use ;) Here you'll find everything you need to know to get you started on Vinted!",
                 "topics_count": 12,
@@ -50,12 +50,12 @@
         ]
     },
     {
-        "id": 3,
+        "id": "3",
         "title": "Vinted news",
         "forums":
         [
             {
-                "id": 5,
+                "id": "5",
                 "title": "Forum rules and getting started!",
                 "description": "These are the rules of the forum! Something EVERYONE should read before use ;) Here you'll find everything you need to know to get you started on Vinted!",
                 "topics_count": 12,
