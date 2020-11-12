@@ -21,6 +21,24 @@
                 "comments_count": 352,
                 "last_post_created_at": "2020-03-04,11:24 UTC",
                 "last_post_creator_login": "secondchancesboutique"
+            },
+            {
+                "id": "4",
+                "title": "Vinted is still the best!",
+                "description": "OMG! Vinted is so much better than bla bla bla. Did you knew that Rick and Morty is the most watched series between Vinted Academy'20 interns? Bla bla bla bla bla. END of bla's.",
+                "topics_count": 25,
+                "comments_count": 352,
+                "last_post_created_at": "2020-03-04,11:24 UTC",
+                "last_post_creator_login": "secondchancesboutique"
+            },
+            {
+                "id": "5",
+                "title": "Vinted is still the best!",
+                "description": "OMG! Vinted is so much better than bla bla bla. Did you knew that Rick and Morty is the most watched series between Vinted Academy'20 interns? Bla bla bla bla bla. END of bla's.",
+                "topics_count": 25,
+                "comments_count": 352,
+                "last_post_created_at": "2020-03-04,11:24 UTC",
+                "last_post_creator_login": "secondchancesboutique"
             }
         ]
     },
@@ -30,7 +48,7 @@
         "forums":
         [
             {
-                "id": "3",
+                "id": "6",
                 "title": "Forum rules and getting started!",
                 "description": "These are the rules of the forum! Something EVERYONE should read before use ;) Here you'll find everything you need to know to get you started on Vinted!",
                 "topics_count": 12,
@@ -39,7 +57,34 @@
                 "last_post_creator_login": "secondchancesboutique"
             },
             {
-                "id": "4",
+                "id": "7",
+                "title": "Forum rules and getting started!",
+                "description": "These are the rules of the forum! Something EVERYONE should read before use ;) Here you'll find everything you need to know to get you started on Vinted!",
+                "topics_count": 12,
+                "comments_count": 123,
+                "last_post_created_at": "2020-11-13,15:00 UTC",
+                "last_post_creator_login": "secondchancesboutique"
+            },
+            {
+                "id": "8",
+                "title": "Forum rules and getting started!",
+                "description": "These are the rules of the forum! Something EVERYONE should read before use ;) Here you'll find everything you need to know to get you started on Vinted!",
+                "topics_count": 12,
+                "comments_count": 123,
+                "last_post_created_at": "2020-11-13,15:00 UTC",
+                "last_post_creator_login": "secondchancesboutique"
+            },
+            {
+                "id": "9",
+                "title": "Forum rules and getting started!",
+                "description": "These are the rules of the forum! Something EVERYONE should read before use ;) Here you'll find everything you need to know to get you started on Vinted!",
+                "topics_count": 12,
+                "comments_count": 123,
+                "last_post_created_at": "2020-11-13,15:00 UTC",
+                "last_post_creator_login": "secondchancesboutique"
+            },
+            {
+                "id": "10",
                 "title": "Forum rules and getting started!",
                 "description": "These are the rules of the forum! Something EVERYONE should read before use ;) Here you'll find everything you need to know to get you started on Vinted!",
                 "topics_count": 12,
@@ -55,7 +100,43 @@
         "forums":
         [
             {
-                "id": "5",
+                "id": "11",
+                "title": "Forum rules and getting started!",
+                "description": "These are the rules of the forum! Something EVERYONE should read before use ;) Here you'll find everything you need to know to get you started on Vinted!",
+                "topics_count": 12,
+                "comments_count": 123,
+                "last_post_created_at": "2020-01-01,15:00 UTC",
+                "last_post_creator_login": "secondchancesboutique"
+            },
+            {
+                "id": "12",
+                "title": "Forum rules and getting started!",
+                "description": "These are the rules of the forum! Something EVERYONE should read before use ;) Here you'll find everything you need to know to get you started on Vinted!",
+                "topics_count": 12,
+                "comments_count": 123,
+                "last_post_created_at": "2020-01-01,15:00 UTC",
+                "last_post_creator_login": "secondchancesboutique"
+            },
+            {
+                "id": "13",
+                "title": "Forum rules and getting started!",
+                "description": "These are the rules of the forum! Something EVERYONE should read before use ;) Here you'll find everything you need to know to get you started on Vinted!",
+                "topics_count": 12,
+                "comments_count": 123,
+                "last_post_created_at": "2020-01-01,15:00 UTC",
+                "last_post_creator_login": "secondchancesboutique"
+            },
+            {
+                "id": "14",
+                "title": "Forum rules and getting started!",
+                "description": "These are the rules of the forum! Something EVERYONE should read before use ;) Here you'll find everything you need to know to get you started on Vinted!",
+                "topics_count": 12,
+                "comments_count": 123,
+                "last_post_created_at": "2020-01-01,15:00 UTC",
+                "last_post_creator_login": "secondchancesboutique"
+            },
+            {
+                "id": "15",
                 "title": "Forum rules and getting started!",
                 "description": "These are the rules of the forum! Something EVERYONE should read before use ;) Here you'll find everything you need to know to get you started on Vinted!",
                 "topics_count": 12,
