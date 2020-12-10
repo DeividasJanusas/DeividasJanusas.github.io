@@ -1,171 +1,73 @@
 {
-  "identifier": 1,
-  "member": 
-  {
-    "identifier": 1,
-    "photoURL": "https://i.insider.com/5d24d6b921a861093e71fef3?width=1800&format=jpeg&auto=webp",
-    "username": "kalendraNelaboji"
-  },
-  "commentsCount": 24,
-  "postingTime": "2 hours ago",
-  "fromTopic": "Ar kas nors žino kas yra kalendra?",
-  "postText": "There are so much bla bla stuff in VInted about all the bla bla there can be bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla. END of bla's.",
-  "addedPhotos": ["https://www.rspcasa.org.au/wp-content/uploads/2019/01/Adopt-a-cat-or-kitten-from-RSPCA.jpg",
-                  "https://i.pinimg.com/736x/52/bc/39/52bc3928fd63daa22ebfb555f9ae07dd.jpg",
-                  "https://www.sunnyskyz.com/uploads/2018/12/65zli-cat-meme-1a.jpg",
-                  "https://cutecatsanddogs.com/wp-content/uploads/2014/10/funny-videos-funny-cats-funny-ca1.jpg"
-  ],
-  "isPostLiked": false,
-  "likesCount": 23
-}
-
-
-[
-    {
+    "posts": [
+      {
+        "topic_title": "Nelabųjų prakeiksmai kalendrų valgytojams?",
         "id": 1,
-        "title": "Information about Vinted",
-        "forums":
-        [
+        "message": "Sveikos merginos. Šiandien darau užsakymą kalendrų. Jos yra ANALOGIŠKOS, tai tikrai ne 100% orginalios kalendros. Bet už tai ir kainą mažesnė, esamų kalendrų kiekis 100gr. Įpakavimas ne orginalus. Kas norit rašykit į pm. Arba į komentarus noriu. Susisieksiu.",
+        "photos": [
             {
-                "id": 1,
-                "title": "Vinted is best!",
-                "description": "There are so much bla bla stuff in VInted about all the bla bla there can be bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla. END of bla's.",
-                "topics_count": 1,
-                "comments_count": 9,
-                "last_post_created_at": "Last post 3 days ago",
-                "last_post_creator_login": "secondchancesboutique"
-            },
-            {
-                "id": 2,
-                "title": "Vinted is still the best!",
-                "description": "OMG! Vinted is so much better than bla bla bla. Did you knew that Rick and Morty is the most watched series between Vinted Academy'20 interns? Bla bla bla bla bla. END of bla's.",
-                "topics_count": 25,
-                "comments_count": 32,
-                "last_post_created_at": "Last post 3 days ago",
-                "last_post_creator_login": "secondchancesboutique"
-            },
-            {
-                "id": 4,
-                "title": "Vinted is still the best!",
-                "description": "OMG! Vinted is so much better than bla bla bla. Did you knew that Rick and Morty is the most watched series between Vinted Academy'20 interns? Bla bla bla bla bla. END of bla's.",
-                "topics_count": 253,
-                "comments_count": 352,
-                "last_post_created_at": "Last post 3 days ago",
-                "last_post_creator_login": "secondchancesboutique"
-            },
-            {
-                "id": 5,
-                "title": "Vinted is still the best!",
-                "description": "OMG! Vinted is so much better than bla bla bla. Did you knew that Rick and Morty is the most watched series between Vinted Academy'20 interns? Bla bla bla bla bla. END of bla's.",
-                "topics_count": 2533,
-                "comments_count": 3523,
-                "last_post_created_at": "Last post 3 days ago",
-                "last_post_creator_login": "secondchancesboutique"
+                "https://i.pinimg.com/originals/69/1d/d8/691dd87d4cfd7da641cd841370b85ef7.jpg",
+                "https://i.insider.com/5d24d6b921a861093e71fef3?width=1800&format=jpeg&auto=webp",
+                "https://www.papercards.com/images/avanti/cd13409-cloud-cat-funny-humorous-birthday-card.jpg"
             }
-        ]
-    },
-    {
+        ],
+        "likes": 7,
+        "created_at": "2h ago",
+        "is_liked": true,
+        "is_posted_via_mobile": true,
+        "is_anonymous": false,
+        "author": { // if author is deleted or blocked we return null, in frontend it should say 'ex-narys'
+            "login": "KalendraNelaboji", // confirmed from Robertas that we don't need first_name and last_name
+            "icon_url": "https://i.insider.com/5d24d6b921a861093e71fef3?width=1800&format=jpeg&auto=webp",
+            "posts_count": 123,
+            "is_author": false
+        }
+      },
+      {
+        "topic_title": "Nelabųjų prakeiksmai kalendrų valgytojams?",
         "id": 2,
-        "title": "Vinted Parents about Vinted",
-        "forums":
-        [
+        "message": "Sveikos merginos. Šiandien darau užsakymą kalendrų. Jos yra ANALOGIŠKOS, tai tikrai ne 100% orginalios kalendros. Bet už tai ir kainą mažesnė, esamų kalendrų kiekis 100gr. Įpakavimas ne orginalus. Kas norit rašykit į pm. Arba į komentarus noriu. Susisieksiu.",
+        "photos": [
             {
-                "id": 6,
-                "title": "Forum rules and getting started!",
-                "description": "These are the rules of the forum! Something EVERYONE should read before use ;) Here you'll find everything you need to know to get you started on Vinted!",
-                "topics_count": 1,
-                "comments_count": 123999,
-                "last_post_created_at": "Last post 3 days ago",
-                "last_post_creator_login": "secondchancesboutique"
-            },
-            {
-                "id": 7,
-                "title": "Forum rules and getting started!",
-                "description": "These are the rules of the forum! Something EVERYONE should read before use ;) Here you'll find everything you need to know to get you started on Vinted!",
-                "topics_count": 1213,
-                "comments_count": 1232,
-                "last_post_created_at": "Last post 3 days ago",
-                "last_post_creator_login": "secondchancesboutique"
-            },
-            {
-                "id": 8,
-                "title": "Forum rules and getting started!",
-                "description": "These are the rules of the forum! Something EVERYONE should read before use ;) Here you'll find everything you need to know to get you started on Vinted!",
-                "topics_count": 12,
-                "comments_count": 123,
-                "last_post_created_at": "Last post 3 days ago",
-                "last_post_creator_login": "secondchancesboutique"
-            },
-            {
-                "id": 9,
-                "title": "Forum rules and getting started!",
-                "description": "These are the rules of the forum! Something EVERYONE should read before use ;) Here you'll find everything you need to know to get you started on Vinted!",
-                "topics_count": 12,
-                "comments_count": 123,
-                "last_post_created_at": "Last post 3 days ago",
-                "last_post_creator_login": "secondchancesboutique"
-            },
-            {
-                "id": 10,
-                "title": "Forum rules and getting started!",
-                "description": "These are the rules of the forum! Something EVERYONE should read before use ;) Here you'll find everything you need to know to get you started on Vinted!",
-                "topics_count": 12,
-                "comments_count": 123,
-                "last_post_created_at": "Last post 3 days ago",
-                "last_post_creator_login": "secondchancesboutique"
+                "https://i.pinimg.com/originals/69/1d/d8/691dd87d4cfd7da641cd841370b85ef7.jpg",
+                "https://i.insider.com/5d24d6b921a861093e71fef3?width=1800&format=jpeg&auto=webp",
+                "https://www.papercards.com/images/avanti/cd13409-cloud-cat-funny-humorous-birthday-card.jpg"
             }
-        ]
-    },
-    {
+        ],
+        "likes": 7,
+        "created_at": "2h ago",
+        "is_liked": true,
+        "is_posted_via_mobile": true,
+        "is_anonymous": false,
+        "author": { // if author is deleted or blocked we return null, in frontend it should say 'ex-narys'
+            "login": "KalendraLaboji", // confirmed from Robertas that we don't need first_name and last_name
+            "icon_url": "https://i.insider.com/5d24d6b921a861093e71fef3?width=1800&format=jpeg&auto=webp",
+            "posts_count": 123,
+            "is_author": false
+        }
+      },
+      {
+        "topic_title": "Nelabųjų prakeiksmai kalendrų valgytojams?",
         "id": 3,
-        "title": "Vinted news",
-        "forums":
-        [
+        "message": "Sveikos merginos. Šiandien darau užsakymą kalendrų. Jos yra ANALOGIŠKOS, tai tikrai ne 100% orginalios kalendros. Bet už tai ir kainą mažesnė, esamų kalendrų kiekis 100gr. Įpakavimas ne orginalus. Kas norit rašykit į pm. Arba į komentarus noriu. Susisieksiu.",
+        "photos": [
             {
-                "id": 11,
-                "title": "Forum rules and getting started!",
-                "description": "These are the rules of the forum! Something EVERYONE should read before use ;) Here you'll find everything you need to know to get you started on Vinted!",
-                "topics_count": 1,
-                "comments_count": 3,
-                "last_post_created_at": "Last post 3 days ago",
-                "last_post_creator_login": "secondchancesboutique"
-            },
-            {
-                "id": 12,
-                "title": "Forum rules and getting started!",
-                "description": "These are the rules of the forum! Something EVERYONE should read before use ;) Here you'll find everything you need to know to get you started on Vinted!",
-                "topics_count": 122,
-                "comments_count": 1,
-                "last_post_created_at": "Last post 3 days ago",
-                "last_post_creator_login": "secondchancesboutique"
-            },
-            {
-                "id": 13,
-                "title": "Forum rules and getting started!",
-                "description": "These are the rules of the forum! Something EVERYONE should read before use ;) Here you'll find everything you need to know to get you started on Vinted!",
-                "topics_count": 12323,
-                "comments_count": 13,
-                "last_post_created_at": "Last post 3 days ago",
-                "last_post_creator_login": "secondchancesboutique"
-            },
-            {
-                "id": 14,
-                "title": "Forum rules and getting started!",
-                "description": "These are the rules of the forum! Something EVERYONE should read before use ;) Here you'll find everything you need to know to get you started on Vinted!",
-                "topics_count": 12,
-                "comments_count": 123,
-                "last_post_created_at": "Last post 3 days ago",
-                "last_post_creator_login": "secondchancesboutique"
-            },
-            {
-                "id": 15,
-                "title": "Forum rules and getting started!",
-                "description": "These are the rules of the forum! Something EVERYONE should read before use ;) Here you'll find everything you need to know to get you started on Vinted!",
-                "topics_count": 12,
-                "comments_count": 123,
-                "last_post_created_at": "Last post 3 days ago",
-                "last_post_creator_login": "secondchancesboutique"
+                "https://i.pinimg.com/originals/69/1d/d8/691dd87d4cfd7da641cd841370b85ef7.jpg",
+                "https://i.insider.com/5d24d6b921a861093e71fef3?width=1800&format=jpeg&auto=webp",
+                "https://www.papercards.com/images/avanti/cd13409-cloud-cat-funny-humorous-birthday-card.jpg"
             }
-        ]
-    }
-]
+        ],
+        "likes": 7,
+        "created_at": "2h ago",
+        "is_liked": true,
+        "is_posted_via_mobile": true,
+        "is_anonymous": false,
+        "author": { // if author is deleted or blocked we return null, in frontend it should say 'ex-narys'
+            "login": "KalendraLabojiNe", // confirmed from Robertas that we don't need first_name and last_name
+            "icon_url": "https://i.insider.com/5d24d6b921a861093e71fef3?width=1800&format=jpeg&auto=webp",
+            "posts_count": 123,
+            "is_author": false
+        }
+      }
+    ]
+}
