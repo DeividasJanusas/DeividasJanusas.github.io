@@ -1,8 +1,12 @@
 {
     "posts": [
       {
-        "topic_title": "Nelabųjų prakeiksmai kalendrų valgytojams?",
         "id": 1,
+         "topic": 
+         {
+            "id": 1,
+            "topic_title": "Nelabųjų prakeiksmai kalendrų valgytojams?"
+         },
         "message": "Sveikos merginos. Šiandien darau užsakymą kalendrų. Jos yra ANALOGIŠKOS, tai tikrai ne 100% orginalios kalendros. Bet už tai ir kainą mažesnė, esamų kalendrų kiekis 100gr. Įpakavimas ne orginalus. Kas norit rašykit į pm. Arba į komentarus noriu. Susisieksiu.",
         "photos": [
             {
@@ -31,8 +35,12 @@
         }
       },
       {
-        "topic_title": "Nelabųjų prakeiksmai kalendrų valgytojams?",
         "id": 2,
+         "topic": 
+         {
+            "id": 2,
+            "topic_title": "Nelabųjų prakeiksmai kalendrų valgytojams?"
+         },
         "message": "Sveikos merginos. Šiandien darau užsakymą kalendrų. Jos yra ANALOGIŠKOS, tai tikrai ne 100% orginalios kalendros. Bet už tai ir kainą mažesnė, esamų kalendrų kiekis 100gr. Įpakavimas ne orginalus. Kas norit rašykit į pm. Arba į komentarus noriu. Susisieksiu.",
         "photos": [
             {
@@ -61,8 +69,12 @@
         }
       },
       {
-        "topic_title": "Nelabųjų prakeiksmai kalendrų valgytojams?",
         "id": 3,
+         "topic": 
+         {
+            "id": 1,
+            "topic_title": "Nelabųjų prakeiksmai kalendrų valgytojams?"
+         },
         "message": "Sveikos merginos. Šiandien darau užsakymą kalendrų. Jos yra ANALOGIŠKOS, tai tikrai ne 100% orginalios kalendros. Bet už tai ir kainą mažesnė, esamų kalendrų kiekis 100gr. Įpakavimas ne orginalus. Kas norit rašykit į pm. Arba į komentarus noriu. Susisieksiu.",
         "photos": [
             {
