@@ -21,6 +21,7 @@
         "is_posted_via_mobile": true,
         "is_anonymous": false,
         "author": { 
+            "id": 1,
             "login": "KalendraNelaboji",
             "icon_url": {
                 "url": "https://i.insider.com/5d24d6b921a861093e71fef3?width=1800&format=jpeg&auto=webp"
@@ -50,6 +51,7 @@
         "is_posted_via_mobile": true,
         "is_anonymous": false,
         "author": { 
+            "id": 2,
             "login": "KalendraLaboji",
             "icon_url": {
                 "url": "https://i.insider.com/5d24d6b921a861093e71fef3?width=1800&format=jpeg&auto=webp"
@@ -79,6 +81,7 @@
         "is_posted_via_mobile": true,
         "is_anonymous": false,
         "author": { 
+            "id": 3,
             "login": "KalendraLabojiNe", 
             "icon_url": 
             {
