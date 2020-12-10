@@ -16,8 +16,8 @@
         "is_liked": true,
         "is_posted_via_mobile": true,
         "is_anonymous": false,
-        "author": { // if author is deleted or blocked we return null, in frontend it should say 'ex-narys'
-            "login": "KalendraNelaboji", // confirmed from Robertas that we don't need first_name and last_name
+        "author": { 
+            "login": "KalendraNelaboji",
             "icon_url": "https://i.insider.com/5d24d6b921a861093e71fef3?width=1800&format=jpeg&auto=webp",
             "posts_count": 123,
             "is_author": false
@@ -39,8 +39,8 @@
         "is_liked": true,
         "is_posted_via_mobile": true,
         "is_anonymous": false,
-        "author": { // if author is deleted or blocked we return null, in frontend it should say 'ex-narys'
-            "login": "KalendraLaboji", // confirmed from Robertas that we don't need first_name and last_name
+        "author": { 
+            "login": "KalendraLaboji",
             "icon_url": "https://i.insider.com/5d24d6b921a861093e71fef3?width=1800&format=jpeg&auto=webp",
             "posts_count": 123,
             "is_author": false
@@ -62,8 +62,8 @@
         "is_liked": true,
         "is_posted_via_mobile": true,
         "is_anonymous": false,
-        "author": { // if author is deleted or blocked we return null, in frontend it should say 'ex-narys'
-            "login": "KalendraLabojiNe", // confirmed from Robertas that we don't need first_name and last_name
+        "author": { 
+            "login": "KalendraLabojiNe", 
             "icon_url": "https://i.insider.com/5d24d6b921a861093e71fef3?width=1800&format=jpeg&auto=webp",
             "posts_count": 123,
             "is_author": false
