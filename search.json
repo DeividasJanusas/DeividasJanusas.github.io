@@ -6,8 +6,12 @@
         "message": "Sveikos merginos. Šiandien darau užsakymą kalendrų. Jos yra ANALOGIŠKOS, tai tikrai ne 100% orginalios kalendros. Bet už tai ir kainą mažesnė, esamų kalendrų kiekis 100gr. Įpakavimas ne orginalus. Kas norit rašykit į pm. Arba į komentarus noriu. Susisieksiu.",
         "photos": [
             {
-                "https://i.pinimg.com/originals/69/1d/d8/691dd87d4cfd7da641cd841370b85ef7.jpg",
-                "https://i.insider.com/5d24d6b921a861093e71fef3?width=1800&format=jpeg&auto=webp",
+                "url": "https://i.pinimg.com/originals/69/1d/d8/691dd87d4cfd7da641cd841370b85ef7.jpg"
+            },
+            {
+                "url": "https://i.insider.com/5d24d6b921a861093e71fef3?width=1800&format=jpeg&auto=webp"
+            },
+            {
                 "https://www.papercards.com/images/avanti/cd13409-cloud-cat-funny-humorous-birthday-card.jpg"
             }
         ],
@@ -18,7 +22,9 @@
         "is_anonymous": false,
         "author": { 
             "login": "KalendraNelaboji",
-            "icon_url": "https://i.insider.com/5d24d6b921a861093e71fef3?width=1800&format=jpeg&auto=webp",
+            "icon_url": {
+                "url": "https://i.insider.com/5d24d6b921a861093e71fef3?width=1800&format=jpeg&auto=webp"
+            },
             "posts_count": 123,
             "is_author": false
         }
@@ -29,8 +35,12 @@
         "message": "Sveikos merginos. Šiandien darau užsakymą kalendrų. Jos yra ANALOGIŠKOS, tai tikrai ne 100% orginalios kalendros. Bet už tai ir kainą mažesnė, esamų kalendrų kiekis 100gr. Įpakavimas ne orginalus. Kas norit rašykit į pm. Arba į komentarus noriu. Susisieksiu.",
         "photos": [
             {
-                "https://i.pinimg.com/originals/69/1d/d8/691dd87d4cfd7da641cd841370b85ef7.jpg",
-                "https://i.insider.com/5d24d6b921a861093e71fef3?width=1800&format=jpeg&auto=webp",
+                "url": "https://i.pinimg.com/originals/69/1d/d8/691dd87d4cfd7da641cd841370b85ef7.jpg"
+            },
+            {
+                "url": "https://i.insider.com/5d24d6b921a861093e71fef3?width=1800&format=jpeg&auto=webp"
+            },
+            {
                 "https://www.papercards.com/images/avanti/cd13409-cloud-cat-funny-humorous-birthday-card.jpg"
             }
         ],
@@ -41,7 +51,9 @@
         "is_anonymous": false,
         "author": { 
             "login": "KalendraLaboji",
-            "icon_url": "https://i.insider.com/5d24d6b921a861093e71fef3?width=1800&format=jpeg&auto=webp",
+            "icon_url": {
+                "url": "https://i.insider.com/5d24d6b921a861093e71fef3?width=1800&format=jpeg&auto=webp"
+            },
             "posts_count": 123,
             "is_author": false
         }
@@ -52,8 +64,12 @@
         "message": "Sveikos merginos. Šiandien darau užsakymą kalendrų. Jos yra ANALOGIŠKOS, tai tikrai ne 100% orginalios kalendros. Bet už tai ir kainą mažesnė, esamų kalendrų kiekis 100gr. Įpakavimas ne orginalus. Kas norit rašykit į pm. Arba į komentarus noriu. Susisieksiu.",
         "photos": [
             {
-                "https://i.pinimg.com/originals/69/1d/d8/691dd87d4cfd7da641cd841370b85ef7.jpg",
-                "https://i.insider.com/5d24d6b921a861093e71fef3?width=1800&format=jpeg&auto=webp",
+                "url": "https://i.pinimg.com/originals/69/1d/d8/691dd87d4cfd7da641cd841370b85ef7.jpg"
+            },
+            {
+                "url": "https://i.insider.com/5d24d6b921a861093e71fef3?width=1800&format=jpeg&auto=webp"
+            },
+            {
                 "https://www.papercards.com/images/avanti/cd13409-cloud-cat-funny-humorous-birthday-card.jpg"
             }
         ],
@@ -64,7 +80,10 @@
         "is_anonymous": false,
         "author": { 
             "login": "KalendraLabojiNe", 
-            "icon_url": "https://i.insider.com/5d24d6b921a861093e71fef3?width=1800&format=jpeg&auto=webp",
+            "icon_url": 
+            {
+                "url": "https://i.insider.com/5d24d6b921a861093e71fef3?width=1800&format=jpeg&auto=webp"
+            },
             "posts_count": 123,
             "is_author": false
         }
