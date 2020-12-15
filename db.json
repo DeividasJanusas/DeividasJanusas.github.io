@@ -11,7 +11,8 @@
                 "topics_count": 1,
                 "comments_count": 9,
                 "last_post_created_at": "2020-11-16T13:09:05.979Z",
-                "last_post_creator_login": "secondchancesboutique"
+                "last_post_creator_login": "secondchancesboutique",
+                "last_post_id": 1
             },
             {
                 "id": 2,
@@ -20,7 +21,8 @@
                 "topics_count": 25,
                 "comments_count": 32,
                 "last_post_created_at": "2020-12-10T13:09:05.979Z",
-                "last_post_creator_login": "secondchancesboutique"
+                "last_post_creator_login": "secondchancesboutique",
+                "last_post_id": 2
             },
             {
                 "id": 4,
@@ -29,7 +31,8 @@
                 "topics_count": 253,
                 "comments_count": 352,
                 "last_post_created_at": "2019-11-10T13:09:05.979Z",
-                "last_post_creator_login": "secondchancesboutique"
+                "last_post_creator_login": "secondchancesboutique",
+                "last_post_id": 3
             },
             {
                 "id": 5,
@@ -38,7 +41,8 @@
                 "topics_count": 2533,
                 "comments_count": 3523,
                 "last_post_created_at": "2020-04-10T13:09:05.979Z",
-                "last_post_creator_login": "secondchancesboutique"
+                "last_post_creator_login": "secondchancesboutique",
+                "last_post_id": 4
             }
         ]
     },
@@ -54,7 +58,8 @@
                 "topics_count": 1,
                 "comments_count": 123999,
                 "last_post_created_at": "2020-12-11T13:09:05.979Z",
-                "last_post_creator_login": "secondchancesboutique"
+                "last_post_creator_login": "secondchancesboutique",
+                "last_post_id": 5
             },
             {
                 "id": 7,
@@ -63,7 +68,8 @@
                 "topics_count": 1213,
                 "comments_count": 1232,
                 "last_post_created_at": "2020-11-10T13:09:05.979Z",
-                "last_post_creator_login": "secondchancesboutique"
+                "last_post_creator_login": "secondchancesboutique",
+                "last_post_id": 6
             },
             {
                 "id": 8,
@@ -72,7 +78,8 @@
                 "topics_count": 12,
                 "comments_count": 123,
                 "last_post_created_at": "2020-11-10T13:09:05.979Z",
-                "last_post_creator_login": "secondchancesboutique"
+                "last_post_creator_login": "secondchancesboutique",
+                "last_post_id": 7
             },
             {
                 "id": 9,
@@ -81,7 +88,8 @@
                 "topics_count": 12,
                 "comments_count": 123,
                 "last_post_created_at": "2020-11-10T13:09:05.979Z",
-                "last_post_creator_login": "secondchancesboutique"
+                "last_post_creator_login": "secondchancesboutique",
+                "last_post_id": 8
             },
             {
                 "id": 10,
@@ -90,7 +98,8 @@
                 "topics_count": 12,
                 "comments_count": 123,
                 "last_post_created_at": "2020-11-10T13:09:05.979Z",
-                "last_post_creator_login": "secondchancesboutique"
+                "last_post_creator_login": "secondchancesboutique",
+                "last_post_id": 9
             }
         ]
     },
@@ -106,7 +115,8 @@
                 "topics_count": 1,
                 "comments_count": 3,
                 "last_post_created_at": "2020-11-10T13:09:05.979Z",
-                "last_post_creator_login": "secondchancesboutique"
+                "last_post_creator_login": "secondchancesboutique",
+                "last_post_id": 10
             },
             {
                 "id": 12,
@@ -115,7 +125,8 @@
                 "topics_count": 0,
                 "comments_count": 0,
                 "last_post_created_at": "",
-                "last_post_creator_login": "secondchancesboutique"
+                "last_post_creator_login": "secondchancesboutique",
+                "last_post_id": 11
             },
             {
                 "id": 13,
@@ -124,7 +135,8 @@
                 "topics_count": 12323,
                 "comments_count": 13,
                 "last_post_created_at": "2020-11-10T13:09:05.979Z",
-                "last_post_creator_login": "secondchancesboutique"
+                "last_post_creator_login": "secondchancesboutique",
+                "last_post_id": 12
             },
             {
                 "id": 14,
@@ -133,7 +145,8 @@
                 "topics_count": 12,
                 "comments_count": 123,
                 "last_post_created_at": "2020-11-10T13:09:05.979Z",
-                "last_post_creator_login": "secondchancesboutique"
+                "last_post_creator_login": "secondchancesboutique",
+                "last_post_id": 13
             },
             {
                 "id": 15,
@@ -142,7 +155,8 @@
                 "topics_count": 12,
                 "comments_count": 123,
                 "last_post_created_at": "2020-11-10T13:09:05.979Z",
-                "last_post_creator_login": "secondchancesboutique"
+                "last_post_creator_login": "secondchancesboutique",
+                "last_post_id": 14
             }
         ]
     }
